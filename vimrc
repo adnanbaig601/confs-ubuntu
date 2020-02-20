@@ -69,9 +69,6 @@ endif
 " Line numbers:
 set number
 
-"----------------
-" Syntax highlighting:
-syntax on
 
 "----------------
 " Spelling and grammer checking (makes text hard to see with certain colour
