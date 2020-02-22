@@ -150,6 +150,11 @@ alias snow="shutdown now"
 
 alias bi="brew install"
 
+#---
+
+# When vi mode is on this will make it quicker to clear the screen.
+alias c="clear" # Just type c and hit enter.
+
 #---------------------
 # Edit configuration files:
 
